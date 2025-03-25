@@ -1,7 +1,7 @@
 go get github.com/google/uuid
 
 
-
+```
 myapp/
 ├── cmd/
 │   └── api/
@@ -50,7 +50,7 @@ myapp/
 │   └── e2e/
 ├── deployments/              # Docker, k8s
 └── go.mod
-
+```
 
 SECUENCIA DE EJECUCIÓN
 → Dominio (Estructuras de datos) 
